@@ -1,6 +1,6 @@
 # HYBRID_RECOMMENDER_PROJECT
 
-![recommended](https://github.com/Merttcoskun/HYBRID_RECOMMENDER_PROJECT/assets/111244707/5eadd04d-7e33-49d7-9d74-f3d0303519df)
+
 
 <img src="https://github.com/Merttcoskun/HYBRID_RECOMMENDER_PROJECT/assets/111244707/5eadd04d-7e33-49d7-9d74-f3d0303519df"  width="500" height="300">
 
